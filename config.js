@@ -2,8 +2,8 @@ const fs = require('fs')
 
 global.prefix = '+'
 global.mode = 'publik'
-global.packName = '🎈K R I S H N A D A S🎈'
-global.authorName = '⚡️T O X I C⚡️'
+global.packName = '⚡️T O X I C⚡️'
+global.authorName = '🎈K R I S H N A D A S🎈'
 // global.thumb = fs.readFileSync('./thumb.jpeg')
 global.ownerNumber = ['0', '919633687665', '917306398363', '917736622139']
 global.thumbnailUrl = ['https://telegra.ph/file/69d52042b39386c222151.jpg', 'https://telegra.ph/file/7079e0b324406d3d7543c.jpg', 'https://telegra.ph/file/3a3edf8916e3239522a34.jpg']
